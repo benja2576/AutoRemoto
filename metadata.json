@@ -1,0 +1,6 @@
+{
+  "name": "Auto IoT Control",
+  "description": "Aplicación Android nativa para monitoreo y control en tiempo real de vehículo IoT con ESP32, sensor ultrasónico HC-SR04 y driver L298N.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
